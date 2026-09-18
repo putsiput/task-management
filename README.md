@@ -6,7 +6,7 @@
 
 **Kinbot** adalah aplikasi web manajemen dan pencatatan laporan kinerja harian lokal berbasis PHP & SQLite. Dirancang dengan antarmuka yang bersih (*clean*), responsif, modern, serta dilengkapi maskot **Kino** untuk pengalaman pengguna yang intuitif.
 
-Aplikasi ini ditujukan untuk mempermudah pengawasan dan rekapitulasi tugas harian pada unit **Admin BAAK & UPT TIK**.
+Aplikasi ini ditujukan untuk mempermudah pengawasan dan rekapitulasi tugas harian pada unit tertentu (saat ini diaplikasi masih dua unit)
 
 ---
 
@@ -17,7 +17,7 @@ Aplikasi ini ditujukan untuk mempermudah pengawasan dan rekapitulasi tugas haria
 - 🤖 **Evaluasi Kinerja Otomatis oleh Kino**: Kesimpulan kinerja akhir bulan yang digenerate otomatis berdasarkan persentase capaian.
 - 🗓️ **Filter Periode Bulan**: Memudahkan peninjauan laporan kinerja pada bulan-bulan sebelumnya.
 - ✏️ **Manajemen Tugas Lengkap (CRUD)**:
-  - Tambah tugas baru per divisi (Admin BAAK / UPT TIK).
+  - Tambah tugas baru per divisi.
   - *Quick status update* langsung dari tabel.
   - Ubah & Hapus data via Modal Dialog.
 - 🖨️ **Print Preview & Export**:
